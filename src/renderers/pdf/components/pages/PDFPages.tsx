@@ -1,6 +1,6 @@
 /* eslint-disable */
 import React, { FC, useContext, useEffect } from "react";
-import { Document } from "react-pdf";
+import { Document } from "sh-react-pdf";
 import styled from "styled-components";
 import { useTranslation } from "../../../../hooks/useTranslation";
 import { PDFContext } from "../../state";
