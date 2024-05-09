@@ -1,5 +1,5 @@
 import React from "react";
-import { pdfjs } from "sh-react-pdf";
+import { pdfjs } from "@hchuang/react-pdf";
 import styled from "styled-components";
 import { DocRenderer, IStyledProps } from "../..";
 import PDFPages from "./components/pages/PDFPages";
